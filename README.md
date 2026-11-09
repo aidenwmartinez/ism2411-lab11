@@ -1,2 +1,11 @@
-# ism2411-lab11
-Lab 11 for ISM2411 covering Python dictionaries, customer information, discounts, and sales tracking.
+# ISM2411 Lab 11 — Customer Dictionary & Lookup
+
+**Name:** Aiden Martinez
+
+## How to Run
+
+From this folder:
+
+```bash
+python3 customers.py
+```
