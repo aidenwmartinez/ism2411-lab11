@@ -107,3 +107,16 @@ for transaction in transactions:
 
 for region in sorted(region_sales):
     print(f"{region}: ${region_sales[region]:.2f}")
+
+
+# Reflection
+#
+# 1. I would use .get() when I'm not sure if certain
+# information is there, like a customer's email.
+# I would use brackets when I know the information should
+# be there because it makes missing information easier to catch.
+#
+# 2. This reminds me of using a PivotTable in Excel to
+# organize sales by category. Python could be better for
+# larger datasets because it can automatically add up
+# sales without me having to sort everything manually.
